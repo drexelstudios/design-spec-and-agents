@@ -1,4 +1,4 @@
-# Competitive Research Agent (Starter)
+# Competitive Analysis Agent (Starter)
 
 This is a starter agent file. Modify it to fit your project, your domain and your taste. The four-component structure (Purpose, Scope, Instructions, Output Format) is the anatomy. Treat it as a starting point you can modify.
 
