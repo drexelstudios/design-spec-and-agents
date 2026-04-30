@@ -1,6 +1,6 @@
 # Design Spec and Agents
 
-A starter kit for building agentic AI workflows in product design. Developed as part of the IxDF Master Class #2 — *How to Build Agentic AI Workflows for Product Design*.
+A starter kit for building agentic AI workflows in product design. Developed as part of the IxDF Master Class taught by Rafael Hernandez — *How to Build Agentic AI Workflows for Product Design*.
 
 ---
 
